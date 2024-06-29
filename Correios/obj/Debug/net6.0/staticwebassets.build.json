@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZtbwUFCkcRu2QwUN+SwzV5lUS1mnaNRUdBHIIx3XFP0=",
+  "Source": "Correios.Api",
+  "BasePath": "_content/Correios.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

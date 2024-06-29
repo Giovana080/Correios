@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Giovana\\CTsoluções\\Correios\\CorreiosFront\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Giovana\\CTsoluções\\Correios\\CorreiosFront\\obj\\Debug\\net6.0\\compressed\\wuaqxpmiwm.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Giovana\\CTsoluções\\Correios\\CorreiosFront\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CorreiosFront.styles.css",
+      "PackagePath": "staticwebassets\\CorreiosFront.styles.css"
+    },
+    {
+      "Id": "C:\\Giovana\\CTsoluções\\Correios\\CorreiosFront\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Giovana\\CTsoluções\\Correios\\CorreiosFront\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Giovana\\CTsoluções\\Correios\\CorreiosFront\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Giovana\\CTsoluções\\Correios\\CorreiosFront\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Giovana\\CTsoluções\\Correios\\CorreiosFront\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CorreiosFront.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CorreiosFront.props",
+      "PackagePath": "build\\CorreiosFront.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CorreiosFront.props",
+      "PackagePath": "buildMultiTargeting\\CorreiosFront.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CorreiosFront.props",
+      "PackagePath": "buildTransitive\\CorreiosFront.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

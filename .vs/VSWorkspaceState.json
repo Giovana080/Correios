@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Correios",
+    "\\Correios\\bin",
+    "\\Correios\\bin\\Debug",
+    "\\Correios\\bin\\Debug\\net6.0",
+    "\\Correios\\bin\\Release",
+    "\\Correios\\bin\\Release\\net6.0",
+    "\\Correios\\obj",
+    "\\Correios\\obj\\Release",
+    "\\Correios\\obj\\Release\\net6.0"
+  ],
+  "SelectedNode": "\\Correios\\Properties\\launchSettings.json",
+  "PreviewInSolutionExplorer": false
+}

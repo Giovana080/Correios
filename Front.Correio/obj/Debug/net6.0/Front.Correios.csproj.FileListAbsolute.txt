@@ -1,0 +1,6 @@
+C:\Giovana\CTsoluções\Correios\Front.Correio\obj\Debug\net6.0\Front.Correios.csproj.AssemblyReference.cache
+C:\Giovana\CTsoluções\Correios\Front.Correio\obj\Debug\net6.0\Front.Correios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Giovana\CTsoluções\Correios\Front.Correio\obj\Debug\net6.0\Front.Correios.AssemblyInfoInputs.cache
+C:\Giovana\CTsoluções\Correios\Front.Correio\obj\Debug\net6.0\Front.Correios.AssemblyInfo.cs
+C:\Giovana\CTsoluções\Correios\Front.Correio\obj\Debug\net6.0\Front.Correios.csproj.CoreCompileInputs.cache
+C:\Giovana\CTsoluções\Correios\Front.Correio\obj\Debug\net6.0\Front.Correios.MvcApplicationPartsAssemblyInfo.cache
